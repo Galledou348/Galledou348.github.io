@@ -1,0 +1,139 @@
+#div1{ 
+    font-family: montserrat,arial,sans-serif;
+    font-size: 30px;
+    width: 1000px;
+
+}
+body{
+    width: 1000px;
+    height: 6000px;
+}
+#principale{
+    width: 1000px;
+    height: 4000px;
+} 
+#div11{
+    width: 1500px;
+    height: 600px;
+    background-image: url('../photo\ d\ accueil\ de\ san\ francisco.png');
+}
+
+
+
+#div11>p{
+    display: inline-block;
+    color:white;
+    padding: 13px 7px;
+    font-family: montserrat,arial,sans-serif;
+    font-size: 20px;
+    border: solid 60px 20px ;
+    border-radius: 3px;
+}
+p>a{
+    color:white;
+    text-decoration: none;
+    padding-bottom: 50px;
+    border-radius: 5px;
+    
+}
+#div11>p:hover{
+    
+    color: white;
+}p>a:hover{
+    color: white;
+}
+p{
+    border: solid white ;
+    line-height: 20px;
+    border-radius: 1px 1px;
+}
+#div21{
+    font-family: montserrat,arial,sans-serif;
+    margin-left: 150px;
+    margin-right: 300px;
+    margin-top: 100px;
+    text-decoration: underline;
+}
+#div12{
+    text-align: left;
+}
+#div22{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+#div31{
+    display: block;
+    padding-left: 100px;
+    font-size: 20px;
+    font-family: montserrat,arial,sans-serif;
+
+
+}
+#div32{
+padding-left: 100px;
+line-height: 20px;
+text-decoration: aquamarine underline;
+margin-left: 100px
+}
+#div41{
+    margin-left: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline blue;
+
+
+}
+#div42{
+    padding-left: 100px;
+    padding-right: 300px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+#div40{
+margin-left: 100px;
+}
+#div51{
+    margin-left: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline rebeccapurple;
+}
+#div52{
+    
+    margin-left: 100px;
+}
+#div53{
+    padding-left: 100px;
+    padding-right: 300px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 40px;
+}
+#div61{
+    margin-left: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline red;
+}
+#div62{
+    margin-left: 100px;
+}
+#div63{
+    
+    padding-left: 100px;
+    padding-right: 300px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;*
+    padding-top: 40px;
+}
+#div71{
+    margin-left: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline powderblue;
+}
+#divi72{
+    padding-left: 100px;
+
+}
+#divi73{
+    padding-left: 100px;
+    padding-right: 300px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 40px;
+}

@@ -1,0 +1,103 @@
+body{
+    width: 1300px;
+    height: 3000px;
+    background-color: skyblue;
+}
+#accueil1{
+    width: 1300px;
+    height: 400px;
+    background-image: url('../singapour\ photo\ \ d\ accueil.jpg')
+}
+#accueil11{
+    height: 60px
+}
+ ul>li{
+    font-family: montserrat,arial,sans-serif;
+    display: inline;
+    font-size: 20px;
+    color: white;
+    padding: 13px 7px;
+    
+}
+
+}
+
+#div2 ul>li{
+    display: inline-block;
+    color:white;
+    padding: 13px 7px;
+    font-family: montserrat,arial,sans-serif;
+    font-size: 20px;
+}
+#div2 li>a{
+    color:white;
+    text-decoration: none;
+    line-height: 600px;
+
+    
+}
+#div2 ul>li:hover{
+    background-color:black;
+    color: white;
+}
+li>a:hover{
+    color: white;
+    background: black;
+}
+p{
+    font-family: montserrat,arial,sans-serif;
+    font-size: 40px;
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding-bottom: 40px;
+    padding-left: 90px;
+
+}
+#div2{
+    width: 900px;
+    height: 30px;
+    color: bisque;
+    
+
+}
+h2{
+    font-family: montserrat,arial,sans-serif;
+    padding-left: 400px;
+    padding-right: 400px;
+    text-decoration: underline blueviolet;
+    
+
+}
+p{
+    padding-left: 200px;
+    padding-right: 200px;
+    display: block;
+}
+#div41{
+    color: black;
+    font-size: 15px; 
+    font-family: montserrat,arial,sans-serif;
+    padding-right: 200px;
+
+}
+#div43{
+    color: black;
+    font-size: 15px; 
+    font-family: montserrat,arial,sans-serif;
+    display: block;
+    padding-right: 200px;
+    padding-left: 200px
+}
+#div44{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#div46{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#div45{
+    margin-left: 200px;
+    margin-right: 200px;
+}

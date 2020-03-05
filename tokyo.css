@@ -1,0 +1,133 @@
+
+#photo1{
+    background-image: url('../1280px-Night_in_Shinjuku_3.jpg');
+    height: 800px;
+    width: 1280px;
+    
+
+} 
+#tokyo{
+    padding-left: 40px;
+    padding-right: 500px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+
+}
+#div1{
+    
+    color:white;
+    margin-left: 10%;
+    font-size: 80px;
+    margin-right: 800px;
+    padding-top:600px; 
+    font-family: montserrat,arial,sans-serif;
+    
+    
+}
+
+}
+#resume{
+    padding right: 3%;
+    padding-left: 100px;
+    
+
+
+}
+#petitcom{
+    
+    margin-top: 100px;
+    margin-right: 800px;
+    margin-top: 80px;
+    margin-left: 100px;
+    
+
+}
+#grandcom{
+    margin-left: 30px;
+    margin-right: 500px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+#shibuya2{
+    
+    background-image: url('../shibuya.jpg');
+    height: 400px;
+    width: 600px;
+    margin-left: 50px;
+}
+#titre{
+    color: rgb(143, 20, 12);
+    margin: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+h1{
+    color: rgb(189, 47, 47);
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#apercu{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-left: 100px;
+color: black;
+}
+#apercu2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: black;
+    margin-left: 100px;
+}
+#apercu3{
+    margin-left: 100px;
+    margin-right: 500px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+#apercu4{
+    background-image: url('../akihabara.jpg');
+    height: 180px;
+    width: 300px;
+    margin-left: 200px;
+}
+#apercu5{
+    margin-left: 100px;
+    color: black;
+    margin-right: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+#apercu6{
+    margin-left: 100px;
+    margin-right: 700px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#tama{
+    background-image: url('../tama.jpg');
+    height: 450px;
+    width: 670px;
+    margin-left: 100px;
+}
+body{
+    color: rgb(158, 142, 142);
+}
+#div2 ul>li:hover{
+    background-color:rgb(212, 33, 93);
+    color: white;
+}
+li>a:hover{
+    color: white;
+}
+#div2 ul>li{
+    display: inline-block;
+    color:white;
+    padding: 13px 7px;
+    font-family: montserrat,arial,sans-serif;
+    font-size: 20px;
+}
+li>a{
+    color:black;
+    text-decoration: none;
+    
+}

@@ -1,0 +1,163 @@
+#titre1{
+    font-size: 60px;
+    font-family: montserrat,arial,sans-serif;
+    color: white;
+    padding-top: 400px;
+    padding-left: 50px;
+
+    
+    
+}
+#principale{
+    padding: 0px;
+    background-image: url('../body\ paris.jpg');
+    width: 800px;
+    height: 5000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#div1{
+    background-image: url('../paris\ page\ d\ accueil.jpg');
+    width: 1200px;
+    height: 600px;
+    padding-top: 0px;
+}
+body{
+    width: 600px;
+    background-image: url('../body\ paris.jpg')
+}
+
+
+
+#div2{
+    background-color: whitesmoke;
+    width: 1000px;
+    height: 40px;
+}
+
+#div2 ul>li{
+    display: inline-block;
+    color:white;
+    padding: 13px 7px;
+    font-family: montserrat,arial,sans-serif;
+    font-size: 20px;
+}
+li>a{
+    color:black;
+    text-decoration: none;
+    
+}
+#div2 ul>li:hover{
+    background-color:black;
+    color: white;
+}
+li>a:hover{
+    color: white;
+}
+#div3{
+    width: 1250px;
+    height: 400px;
+}
+#div30{
+    font-family: montserrat,arial,sans-serif;
+    font-size: 30px;
+    padding-left: 40px;
+
+}
+#div31{
+    
+    margin-left: 40px;
+    margin-right: 300px;
+    margin-bottom: 20px;
+    border-radius: 2px 2px;
+
+
+}
+#div32{
+    
+    background-image: url('../paris\ page\ d\ accueil.jpg');
+    width: 700px;
+    height: 350px;
+    margin-left: 120px;
+    
+}
+#div41{
+    font-size: 40px;
+    padding-left: 200px;
+    font-family: montserrat,arial,sans-serif;
+    text-decoration: dashed;
+    
+}
+
+#div42{
+    background-image: url('../paris\ vue\ du\ ciel.jpg');
+    width: 1000px;
+    height: 517px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#div51{
+    font-family: montserrat,arial,sans-serif;
+    padding-left: 300px;
+}
+#div52{
+    padding-right: 
+}
+
+    aside {
+        width: 100%;
+        padding-left: .5rem;
+        margin-left: .5rem;
+        float: right;
+        
+    }
+    
+    aside > p {
+        margin: .5rem;
+    }
+#div52{
+    font-family: montserrat,arial,sans-serif;
+    padding-right: 200px;
+    padding-left: 100px;
+
+}
+#div53{
+    width: 500px;
+    height: 400px;
+    margin-left: 400px;
+    margin-right: 500px;
+
+
+}
+#div61{
+    font-size: 20px;
+    font-family: montserrat,arial,sans-serif;
+    padding-left: 400px;
+    padding-right: 400px;
+    margin-top: 100px;
+
+}
+#div62{
+    padding-left: 100px;
+    margin-right: 400px;
+    font-family: montserrat,arial,sans-serif;
+    display: inline
+}
+#div63{ width: 100;
+    margin-left: 400px;
+    margin-right: 600px;
+
+
+}
+#div70{
+    margin-left: 200px;
+    margin-right: 600px;
+}
+img#div63{
+    font-size: 40px;
+    font-family: montserrat,arial,sans-serif;
+    margin-left: 150px;
+    margin-right: 800px;
+    display: inline;
+    
+}
