@@ -17,7 +17,7 @@
     margin-right: auto;
 }
 #div1{
-    background-image: url('../page\ d\ acceuil\ de\ londres.jpg');
+    background-image: url('./page\ d\ acceuil\ de\ londres.jpg');
     width: 1250px;
     height: 600px;
     padding-top: 0px;
@@ -73,7 +73,7 @@ li>a:hover{
 }
 #div32{
     
-    background-image: url('../londres\ div32.jpg');
+    background-image: url('./londres\ div32.jpg');
     width: 700px;
     height: 350px;
     margin-left: 120px;
@@ -88,7 +88,7 @@ li>a:hover{
 }
 
 #div42{
-    background-image: url('../londres\ vue\ du\ ciel.jpg');
+    background-image: url('./londres\ vue\ du\ ciel.jpg');
     width: 1000px;
     height: 517px;
     margin-left: auto;

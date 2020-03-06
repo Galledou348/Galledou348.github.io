@@ -28,11 +28,11 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }                                       
     
     
-    }
+    
     
      li{
          text-decoration: none;
-         color black;
+         color :black;
          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
          font-size: 25px;
      }   
